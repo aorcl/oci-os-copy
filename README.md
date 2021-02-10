@@ -19,4 +19,5 @@ WORK IN PROGRESS - UNFNISHED, MAY NOT WORK!!!
 
 ## License
 
-Please see [LICENSE.md]
+This work is lincensed under Apache License 2.0
+Please see [LICENSE](LICENSE)

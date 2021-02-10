@@ -1,46 +1,22 @@
-# About [project]
+# About
 
-> Describe your project's features, functionality and target audience
+A command line copy utility that permits to copy objects between OCI Object storage and other public clouds.
+
+Please note: this is a personal project, it is not supported, endorsed or promoted by my employer
+WORK IN PROGRESS - UNFNISHED, MAY NOT WORK!!!
 
 ## Installation
 
-> Provide detailed step-by-step installation instructions
+> TODO
 
 ## Documentation
 
-> Developer-oriented documentation can be published on GitHub, but all product
-  documentation must be published on <https://docs.oracle.com>.
+> TODO
 
 ## Examples
 
-> Describe any included examples or provide a link to a demo/tutorial
-
-## Help
-
-> Inform users on where to get help or how to receive official support from Oracle
-  (if applicable).
-
-## Contributing
-
-> If your project has specific contribution requirements, update the
-  `CONTRIBUTING.md` file to ensure those requirements are clearly explained.
-
-This project welcomes contributions from the community. Before submitting a pull
-request, please [review our contribution guide](./CONTRIBUTING.md).
-
-## Security
-
-Please consult the [security guide](./SECURITY.md) for our responsible security
-vulnerability disclosure process.
+> TODO
 
 ## License
 
-> The correct copyright notice format for both documentation and software
-  is `Copyright (c) [year,] year Oracle and/or its affiliates.`
-  You must include the year the content was first released (on any platform) and
-  the most recent year in which it was revised.
-
-Copyright (c) 2021 Oracle and/or its affiliates.
-
-Released under the Universal Permissive License v1.0 as shown at
-<https://oss.oracle.com/licenses/upl/>.
+Please see [LICENSE.md]
